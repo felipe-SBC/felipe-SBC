@@ -11,7 +11,7 @@
 </div>
 
 
-### Interesses:
+### Skills and Interests:
 
 <br>
 
