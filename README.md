@@ -21,6 +21,6 @@
 <br>
 18 anos, Aluno na Fatec Diadema, me aventurando no mundo de investimentos, muito comunicativo e principalmente apaixonado por tecnologia e soluções através de ideias inovadoras.
 <br><br>
-No momento interessado em Back-end, e focando meus estudos para me tornar um Desenvolvedor Júnior, não ficando limitado a aos conhecimentos passados pela Universidade, mas sempre buscando conhecimentos e criação de projetos, atualmente focando mais em Java, onde eu tenho projetos no GitHub. 
+No momento interessado em Back-end, e focando meus estudos para me tornar um Desenvolvedor, não ficando limitado a aos conhecimentos passados pela Universidade, mas sempre buscando conhecimentos e criação de projetos, atualmente focando mais em Java. 
 <br><br>
 E-mail: felipe.sbcruz@gmail.com </p>
