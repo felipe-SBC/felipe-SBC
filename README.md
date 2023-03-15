@@ -3,7 +3,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=felipe-SBC&show_icons=true&theme=dark" />
 </a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-SBC&layout=compact&theme=dark" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucar2022&layout=compact&theme=dark" />
 </div>
 <br>
 <div align="center">  
