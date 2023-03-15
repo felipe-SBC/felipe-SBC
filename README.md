@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align="center">  
- <a href="https://www.https://www.linkedin.com/in/felipe-soares-batista-da-cruz-42937323/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ <a href="https://www.https://www.linkedin.com/in/felipe-sb-cruz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
 
